@@ -1,26 +1,3 @@
 {
-  "token": null,
-  "channel": null,
-  "gm": true,
-  "pm": true,
-  "em": {
-    "text": true,
-    "owo": true
-  },
-  "sm": true,
-  "webhook": {
-    "link": null,
-    "ping": null
-  },
-  "sbcommands": {
-    "enable": true,
-    "prefix": ".",
-    "allowed_id": null
-  },
-  "daily": true,
-  "sell": {
-    "enable": true,
-    "types": "all"
-  },
-  "solve": true
-}
+    "TOKEN": "MTE2MTMwMzk0Njk4MDI0MTQ4OQ.GelqVx.y6IwzRC7uErAc9EUo8F8gsnmdCOb4NcL-WUdqU"
+}  
